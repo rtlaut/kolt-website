@@ -84,19 +84,19 @@ h2 {
   color: var(--secondary-color);
 }
 
-#hero {
+#etusivu {
   background-color: var(--light-gray);
   text-align: center;
   padding: 6rem 0;
 }
 
-#hero h1 {
+#etusivu h1 {
   font-size: 3rem;
   margin-bottom: 1rem;
   color: var(--secondary-color);
 }
 
-#hero p {
+#etusivu p {
   font-size: 1.25rem;
   margin-bottom: 2rem;
 }
@@ -158,7 +158,7 @@ h2 {
   margin-bottom: 0.5rem;
 }
 
-#about {
+#meista {
   background-color: var(--light-gray);
 }
 
@@ -172,7 +172,7 @@ h2 {
   margin-bottom: 1rem;
 }
 
-#contact {
+#yhteystiedot {
   text-align: center;
 }
 
